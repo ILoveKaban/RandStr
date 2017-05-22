@@ -8,7 +8,7 @@ That's all.
 1.Start this app.  
 2.Done.  
 or  
-1.On the command line, run the "RandStr[.exe] &lt;number&gt; &lt;column&gt;".  
+1.On the command line, execute "RandStr[.exe] &lt;number&gt; &lt;column&gt;".  
 2.Done.  
 ***
 ## Downloads
