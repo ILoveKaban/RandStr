@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="お知らせ(必ずお読みください)">
+		<param name="Local" value="helpHTML/notice.html">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="RandStr v3">
+		<param name="Local" value="helpHTML/index.html">
+		<param name="ImageNumber" value="2">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="このファイルの概要">
+			<param name="Local" value="helpHTML/overview.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="使い方">
+			<param name="Local" value="helpHTML/usage.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="更新履歴">
+			<param name="Local" value="helpHTML/history.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="お問い合わせ">
+			<param name="Local" value="helpHTML/contact.html">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="URL群">
+		<param name="Local" value="helpHTML/url.html">
+		<param name="ImageNumber" value="2">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="掲示板">
+			<param name="Local" value="helpHTML/url_bbs.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="ブログ">
+			<param name="Local" value="helpHTML/url_blogs.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Easy Counter!">
+			<param name="Local" value="helpHTML/url_e-counter.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Splatoon Stat(ry">
+			<param name="Local" value="helpHTML/url_splat-status.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Tateshiki Server! (ry">
+			<param name="Local" value="helpHTML/url_tserver-s2.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Tateshiki Lab.">
+			<param name="Local" value="helpHTML/url_tslab.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Twitter">
+			<param name="Local" value="helpHTML/url_twitter.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="URL Short(ry">
+			<param name="Local" value="helpHTML/url_uss.html">
+			</OBJECT>
+	</UL>
+</UL>
+</BODY></HTML>
