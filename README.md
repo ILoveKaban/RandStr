@@ -6,10 +6,10 @@ That's all.
 ***
 ## Usage
 1.Start this app.  
-2.Done.
-or
-1.On the command line, run the "RandStr[.exe] <number> <column>".
-2.Done.
+2.Done.  
+or  
+1.On the command line, run the "RandStr[.exe] &lt;number&gt; &lt;column&gt;".  
+2.Done.  
 ***
 ## Downloads
 You can download from [official site][os].  
